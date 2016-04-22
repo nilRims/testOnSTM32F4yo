@@ -39,3 +39,5 @@
 .\objects\main.o: .\libs\defines.h
 .\objects\main.o: .\libs\SSI.h
 .\objects\main.o: .\libs\defines.h
+.\objects\main.o: .\libs\timer.h
+.\objects\main.o: .\libs\defines.h
